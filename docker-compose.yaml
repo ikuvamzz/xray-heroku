@@ -1,0 +1,3 @@
+services:
+  oktetov2ray:
+    build: .
